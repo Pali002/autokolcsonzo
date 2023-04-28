@@ -1,3 +1,6 @@
 [submodule "CarRentalAdmin"]
 	path = CarRentalAdmin
 	url = https://github.com/Pali002/CarRentalAdmin
+[submodule "carrental2"]
+	path = carrental2
+	url = https://github.com/OneBoyTwoGirl/carrental2
