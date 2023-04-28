@@ -1,0 +1,3 @@
+[submodule "CarRentalAdmin"]
+	path = CarRentalAdmin
+	url = https://github.com/Pali002/CarRentalAdmin
