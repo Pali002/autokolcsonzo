@@ -4,3 +4,6 @@
 [submodule "carrental2"]
 	path = carrental2
 	url = https://github.com/OneBoyTwoGirl/carrental2
+[submodule "Vizsga"]
+	path = Vizsga
+	url = https://github.com/DomanTom07/Vizsga
